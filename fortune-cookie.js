@@ -10,8 +10,8 @@ const fortunecookie = (array1 , array2, array3) =>{
     let fortune = ''
     fortune += noun + pointer + cautionary
     fortune += `Your lucky numbers are ${Math.floor(Math.random()*100)}, ${Math.floor(Math.random()*100)} and ${Math.floor(Math.random()*100)}.`
-    return fortune
+    console.log(fortune)
     
 }
 
-console.log(fortunecookie(nouns,pointers,cautionary))
+fortunecookie(nouns,pointers,cautionary)
