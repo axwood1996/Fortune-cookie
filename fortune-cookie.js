@@ -1,1 +1,2 @@
-new code
+let nouns =['Love','Fear','Incompetence', 'Dishonesty', 'Joy', 'Happiness', 'Fullfilment', 'Anger', 'Death', 'New beginnings']
+let pointers=[' is around the corner ',' is expected ', ' is a clucth ' ,' will not be in your life ', ''  ],
